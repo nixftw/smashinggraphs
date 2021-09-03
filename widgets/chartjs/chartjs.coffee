@@ -1,5 +1,5 @@
+Chart.defaults.global.defaultFontSize = 40
 class Dashing.Chartjs extends Dashing.Widget
-
   constructor: ->
     super
     @id = @get("id")
